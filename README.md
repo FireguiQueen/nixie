@@ -4,7 +4,7 @@ Software I have looked into and consider good options for my setup.
 - **Distribution        :** Arch Linux
 - **Display Server      :** X11
 - **Audio Server        :** PulseAudio
-- **WMs                  :** DWM
+- **WMs                 :** DWM
 
 ## Terminal
 - **Terminal Emulator   :** st, Alacritty
