@@ -15,3 +15,5 @@ Software I have looked into and consider good options for my setup.
 - Web Browser : Firefox, Falkon, Qutebrowser
 - Text editor : Vim 
 - Password Manager : KeePassXC
+- Screen Recorder      : OBS, FFmpeg
+- Video/Audio Tools     : FFmpeg
